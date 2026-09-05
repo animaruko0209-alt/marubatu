@@ -2,6 +2,7 @@
 
 #include <memory>
 #include"Dxlib.h"
+#include"SceneBase.h"
 class Game
 {
 	int scene_no = 0;
